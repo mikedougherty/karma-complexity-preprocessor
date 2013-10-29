@@ -1,0 +1,19 @@
+{
+    "name": "karma-complexity-preprocessor",
+    "version": "0.1.0",
+    "description": "complexity preprocessor for karma test runner",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "karma-plugin",
+        "karma-preprocessor"
+    ],
+    "author": "Laurent Renard",
+    "license": "MIT",
+    "dependencies": {
+        "dateformat": "~1.0.6-1.2.3",
+        "complexity-report": "~0.10.5"
+    }
+}
